@@ -98,6 +98,15 @@ button:hover{
 .text p{
     color: #fff;
     font-size: 10px;
+}
+
+.text span{
+    color: #2ecc71;
+}
+
+.text p{
+    color: #fff;
+    font-size: 18px;
     font-weight: 300;
     margin-top: 10px;
 }
@@ -110,4 +119,25 @@ button:hover{
 
 .btn{
     margin-top: 10px;
+}
+
+.about-text{
+    color: #fff;
+    display: flex;
+    margin-top: 50px;
+    gap: 3rem;
+    width: 350px;
+    height: 200px;
+    padding: 80px;
+    justify-content: right;
+}
+
+.about-text h3{
+    font-size: 15px;
+    justify-content: right;
+}
+
+.about-text h1{
+    color:#2ecc71;
+
 }
