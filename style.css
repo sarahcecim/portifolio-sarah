@@ -121,23 +121,28 @@ button:hover{
     margin-top: 10px;
 }
 
+.container-about{
+    padding: 150px 0 0 130px;
+}
 .about-text{
     color: #fff;
-    display: flex;
-    margin-top: 50px;
-    gap: 3rem;
-    width: 350px;
-    height: 200px;
-    padding: 80px;
-    justify-content: right;
 }
 
 .about-text h3{
     font-size: 15px;
-    justify-content: right;
 }
 
 .about-text h1{
     color:#2ecc71;
+    font-size: 20px;
+}
 
+.about-text p{
+    color: #fff;
+    font-size: 15px;
+}
+
+.about-text span{
+    color: #2ecc71;
+    font-size: 20px;
 }
